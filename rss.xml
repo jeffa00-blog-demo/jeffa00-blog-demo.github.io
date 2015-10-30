@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Our Super Cool Blog!]]></title>
+        <description><![CDATA[We blog about everything we think is cool.]]></description>
+        <link>http://oursupercoolblog.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 22 Oct 2015 22:11:11 GMT</lastBuildDate>
+        <atom:link href="http://oursupercoolblog.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Jeff Ammons]]></author>
+        <pubDate>Thu, 22 Oct 2015 22:10:57 GMT</pubDate>
+        <item>
+            <title><![CDATA[Our Cool Blog]]></title>
+            <description><![CDATA[<p>Welcome to Our Cool Blog!</p>
+<p>We hope you enjoy it.</p>
+]]></description>
+            <link>http://oursupercoolblog.com/2015/12/blog-post01/</link>
+            <guid isPermaLink="true">http://oursupercoolblog.com/2015/12/blog-post01/</guid>
+            <dc:creator><![CDATA[Jeff Ammons]]></dc:creator>
+            <pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blog Post 04]]></title>
+            <description><![CDATA[<p><figure class="pull-left col-md-4">
+  <img src="/img/mountainStream.jpg" alt="New Stream" class="img-responsive">
+  <figcaption>
+    New mountain stream we found! It is totally cool!
+  </figcaption>
+</figure>
+We found a new mountain stream. Surprisingly it looks <em>exactly</em> like the
+last stream we found.</p>
+<p>I positively <strong>love</strong> this bit of water flowing downhill. <em>Test</em></p>
+<p>Top 5 Reasons I love streams</p>
+<ol>
+<li>Water flows downhill</li>
+<li>Water helps me not die</li>
+<li>Things float in water</li>
+<li>I like things that float</li>
+<li>I&#39;m thirsty</li>
+</ol>
+<p>I like bullet lists:</p>
+<ul>
+<li>This is my bullet</li>
+<li>This is another cool bullet</li>
+</ul>
+<p>If I want to embed some code I can do This</p>
+<pre><code>var foo = 1 + 1;
+</code></pre>]]></description>
+            <link>http://oursupercoolblog.com/2015/12/blog-post04/</link>
+            <guid isPermaLink="true">http://oursupercoolblog.com/2015/12/blog-post04/</guid>
+            <dc:creator><![CDATA[Jeff Ammons]]></dc:creator>
+            <pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Second Blog Post]]></title>
+            <description><![CDATA[<p>Wow! We&#39;ve posted twice!</p>
+<h2 id="how-cool-is-that-">How Cool Is That???</h2>
+<p>I KNOW! I can&#39;t believe we&#39;ve made two posts either!</p>
+]]></description>
+            <link>http://oursupercoolblog.com/2015/08/blog-post02/</link>
+            <guid isPermaLink="true">http://oursupercoolblog.com/2015/08/blog-post02/</guid>
+            <dc:creator><![CDATA[jeffa]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2015 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Vacation Last Summer]]></title>
+            <description><![CDATA[<p>Wow! What a great vacation!</p>
+<p><img src="/img/mountainStream.jpg" alt="Mountain Stream"></p>
+<p>We had such a good time.</p>
+]]></description>
+            <link>http://oursupercoolblog.com/2014/07/blog-post03/</link>
+            <guid isPermaLink="true">http://oursupercoolblog.com/2014/07/blog-post03/</guid>
+            <dc:creator><![CDATA[Jeff Ammons]]></dc:creator>
+            <pubDate>Fri, 04 Jul 2014 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
