@@ -55,3 +55,7 @@ figure {
 figure img {
   width: 100%;
 }
+
+ol, ul {
+  list-style-position: inside;
+}
